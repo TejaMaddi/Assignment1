@@ -1,0 +1,19 @@
+#p1 {
+    text-align: center;
+    color:blue;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+#b2{
+    width:84px;
+    height:30px;
+    font-family: "Roboto";
+    position: absolute;
+    left: 50%;
+}
+.h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+}
